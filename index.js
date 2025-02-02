@@ -11,3 +11,8 @@ console.log(payment);
 
 const upi = "upi added"
 
+
+
+// Going to fixex bug
+console.log("Bug Fixed");
+
